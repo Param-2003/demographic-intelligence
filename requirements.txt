@@ -1,0 +1,9 @@
+pyspark
+geopandas
+pandas
+plotly
+matplotlib
+seaborn
+fuzzywuzzy
+scikit-learn
+dash
