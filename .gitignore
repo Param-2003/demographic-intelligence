@@ -1,6 +1,29 @@
+# Byte-compiled / optimized / DLL files
 __pycache__/
-*.log
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PySpark local checkpointing
+.checkpoint/
+
+# Output files
 *.csv
-*.ipynb_checkpoints/
-.parquet
+*.parquet
+*.json
+
+# VS Code
+.vscode/
+
+# Environment
 .env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
